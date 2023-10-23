@@ -1,5 +1,5 @@
 
-# Top 50 Hospitals Data Cleaning Project
+# Top 50 Hospitals PrivateGpt
 
 This Python project scrapes data from the "World's Best Hospitals 2023" ranking on Newsweek's website, uses BeautifulSoup for web scraping, Pandas for data cleaning, and GitHub for version control.
 
